@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "lemmegetu"
+echo "lemmegetbu"
 ./app3.sh
