@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "lemme"
+echo "lemmegetu"
 ./app3.sh
